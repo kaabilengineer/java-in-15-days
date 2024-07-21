@@ -1,0 +1,1 @@
+This repository contains solutions to the practice problems from a comprehensive 15-day Java course. The course covers fundamental concepts in Java programming, with each day's tasks and corresponding practice problems designed to reinforce learning and application of these concepts.
